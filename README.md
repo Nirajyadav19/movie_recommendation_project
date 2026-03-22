@@ -4,14 +4,6 @@ A content-based movie recommendation system built with Python and Streamlit that
 
 ---
 
-## 📸 Demo
-
-> 📌 **Add your Streamlit app screenshot here**
-> Replace this section with: `<img width="1916" height="968" alt="image" src="https://github.com/user-attachments/assets/2a2636a5-052d-4069-8d87-58ea782aba93" />
-)`
-
----
-
 ## 🚀 Features
 
 - Recommends **5 similar movies** based on the selected movie
